@@ -5,7 +5,7 @@ body {
 /* home section  */
 
 .home-section {
-  background-image: red
+  background-image: linear-gradient(rgb(248, 241, 233), rgb(247, 242, 242));
 }
 
 .homeText {
