@@ -1,0 +1,118 @@
+body {
+  background-color: rgb(248, 241, 233);
+}
+
+/* home section  */
+
+.home-section {
+  /* background-image: radial-gradient(whitesmoke, rgb(248, 241, 233)); */
+  background-image: linear-gradient(rgb(248, 241, 233), rgb(247, 242, 242));
+}
+
+.homeText {
+  font-size: 3rem;
+}
+.home-button {
+  background-color: rgb(122 208 131);
+  color: rgb(0 0 0 / 75%);
+  padding: 1rem;
+  border-radius: 2rem;
+}
+
+.home-img-one {
+  position: absolute;
+  top: 6rem;
+}
+
+.home-img-two {
+  width: 39rem;
+}
+
+.home-img-three {
+  width: 59rem;
+  position: absolute;
+  top: 6rem;
+  left: 22rem;
+}
+
+/* work section  */
+
+.work-section {
+  padding: 4rem 0;
+}
+h1.work-title {
+  text-align: center;
+  font-size: 3rem;
+}
+.icons-div {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.single-icon img {
+  width: 3rem;
+}
+
+/* work text part  */
+
+h2.work-single-title {
+  text-align: center;
+  font-size: 20px;
+}
+
+p.work-single-paragraph {
+  font-size: 16px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  word-spacing: 5px;
+  color: #777777;
+}
+
+/* about section start */
+
+h1.about-title {
+  font-size: 2.5rem;
+  font-weight: 300;
+}
+
+p.about-paragraph {
+  font-size: 16px;
+  font-weight: 500;
+  word-spacing: 3px;
+}
+
+.about-img {
+  margin-left: -3rem;
+}
+
+.download-section {
+  background-color: rgb(255, 255, 255);
+  background-image: linear-gradient(white, rgb(248, 241, 233));
+  padding: 3rem 0;
+}
+
+.mobile-img {
+  padding-left: 6rem;
+}
+h1.download-title {
+  text-align: center;
+  margin-bottom: 5rem;
+  font-size: 2.5rem;
+}
+.download-text {
+  padding: 2rem;
+}
+
+.download-parragraph-title {
+  font-size: 2rem;
+  font-weight: 300;
+}
+p.download-parragraph {
+  font-size: 1.1rem;
+  color: #0000009c;
+}
+.download-images img {
+  padding: 2rem;
+}
