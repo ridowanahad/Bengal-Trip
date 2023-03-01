@@ -17,6 +17,11 @@ body {
   color: rgb(0 0 0 / 75%);
   padding: 1rem;
   border-radius: 2rem;
+  cursor: pointer;
+}
+.home-button a {
+  text-decoration: none;
+  color: rgb(52, 52, 50);
 }
 
 .home-img-one {
